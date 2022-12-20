@@ -4,7 +4,3 @@
 - 🌱 estudando desenvolvimento web
 - 👯 contato por email: renanfarias150407@gmail.com e instagram: @renanfarias_rf
 - 😄 Pronouns: ele/dele
-
-<div>
-   <a href="https://github.com/renan-farias"
-</div>
